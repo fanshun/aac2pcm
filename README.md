@@ -8,3 +8,4 @@ enum AVSampleFormat  out_sample_fmt = AV_SAMPLE_FMT_S16;
 
 //采样率
 	int out_sample_rate = 48000;
+
